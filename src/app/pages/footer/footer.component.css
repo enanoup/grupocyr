@@ -1,0 +1,13 @@
+footer {
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color: #1C4291;
+}
+
+footer ul li a {
+    color: #FFFFFF;
+}
+
+.copyright-text p {
+    color: #FFFFFF;
+}
